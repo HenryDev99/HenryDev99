@@ -1,13 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20I'm%20Henry!&fontSize=40&height=200&fontAlignY=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Take%30a%30look%30at%30my%30experience!&fontSize=40&height=200&fontAlignY=40&fontColor=ffffff)
 
-### 👨🏻‍💻 Hi there 
-Hi, I am dreaming of becoming a web developer in the future.<br>
-Currently, I want to be a front-end developer, and my goal is to be a full stack developer.
-
-
-
-I think stamina and patience are important for developers.
-<br>So I have been playing football as a hobby in order to have good stamina and perseverance. ⚽
+### 👨🏻‍💻 Hi there
+I'm Henry, front-end developer<br>
+I have 5 years of experience and want to be a full stack developer.<br>
+To achieve this, I am gaining various experiences.<br>
+Take a look at my experience!
 
 
 ### 💻 Skills
