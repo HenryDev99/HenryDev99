@@ -13,5 +13,5 @@ Take a look at my experience!
 ### 🔧 Tools
 <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-F0047F?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-21B573?style=flat-square&logo=Figma&logoColor=white"/> 
 
-### 🗄️ Used DB
+### 🗄️ DB
 <img src ="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
