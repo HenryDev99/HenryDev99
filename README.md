@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Take%20a%20look%20at%20my%20experience!&fontSize=40&height=200&fontAlignY=40&fontColor=ffffff)
+![image](https://github.com/redbee99/redbee99/assets/74188982/1703ed85-58a4-43e3-846e-0a87dcf12b94)![header](https://capsule-render.vercel.app/api?type=waving&text=Take%20a%20look%20at%20my%20experience!&fontSize=40&height=200&fontAlignY=40&fontColor=ffffff)
 
 ### 👨🏻‍💻 Hi there
 I'm Henry, front-end developer<br>
@@ -10,5 +10,8 @@ Take a look at my experience!
 ### 💻 Skills
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-792EE5?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-FF7800?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-3481FE?style=flat-square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
 
-### 📚 Tools 
+### 🔧 Tools
 <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-F0047F?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-21B573?style=flat-square&logo=Figma&logoColor=white"/> 
+
+### 🗄️ Used DB
+<img src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
