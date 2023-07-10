@@ -1,4 +1,4 @@
-![image](https://github.com/redbee99/redbee99/assets/74188982/1703ed85-58a4-43e3-846e-0a87dcf12b94)![header](https://capsule-render.vercel.app/api?type=waving&text=Take%20a%20look%20at%20my%20experience!&fontSize=40&height=200&fontAlignY=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Take%20a%20look%20at%20my%20experience!&fontSize=40&height=200&fontAlignY=40&fontColor=ffffff)
 
 ### 👨🏻‍💻 Hi there
 I'm Henry, front-end developer<br>
