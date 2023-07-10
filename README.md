@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%I'm%Henry!&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20I'm%20Henry!&fontSize=20)
 <!--
 **redbee99/redbee99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
