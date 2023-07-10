@@ -15,3 +15,6 @@ Take a look at my experience!
 
 ### 🗄️ DB
 <img src ="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+
+### 📮 Contact
+Email: redbee99@naver.com
