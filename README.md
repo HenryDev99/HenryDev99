@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Take%30a%30look%30at%30my%30experience!&fontSize=40&height=200&fontAlignY=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Take%20a%20look%20at%20my%20experience!&fontSize=40&height=200&fontAlignY=40&fontColor=ffffff)
 
 ### 👨🏻‍💻 Hi there
 I'm Henry, front-end developer<br>
