@@ -7,11 +7,11 @@ To achieve this, I am gaining various experiences.<br>
 Take a look at my experience!
 
 ### ⭐️ Portfolio
-뷰티메이커스: https://www.beautymakers.net/home
-뷰티메이커스 안드로이드: https://play.google.com/store/apps/details?id=net.beautymakers.bm&pli=1
-뷰티메이커스 IOS: https://apps.apple.com/tt/app/beautymakers/id1539329573
-뉴밍: https://hello.newming.io/main
-그립랩스: https://www.griplabs.co/
+뷰티메이커스: https://www.beautymakers.net/home<br/>
+뷰티메이커스 안드로이드: https://play.google.com/store/apps/details?id=net.beautymakers.bm&pli=1<br/>
+뷰티메이커스 IOS: https://apps.apple.com/tt/app/beautymakers/id1539329573<br/>
+뉴밍: https://hello.newming.io/main<br/>
+그립랩스: https://www.griplabs.co/<br/>
 
 ### 💻 Skills
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-792EE5?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-FF7800?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-3481FE?style=flat-square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
