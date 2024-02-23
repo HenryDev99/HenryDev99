@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Take%20a%20look%20at%20my%20experience!&fontSize=40&height=200&fontAlignY=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
 ### 👨🏻‍💻 Hi there
 I'm Henry, front-end developer<br>
@@ -24,3 +24,5 @@ Take a look at my experience!
 
 ### 📮 Contact
 Email: redbee99@naver.com
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
