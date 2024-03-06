@@ -23,6 +23,6 @@ Take a look at my experience!
 <img src ="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
 
 ### 📮 Contact
-Email: redbee99@naver.com
+Email: devhenryoh99@gmail.com
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
