@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 Hi there
 I'm Henry, front-end developer<br>
-I have 5 years of experience and want to be a full stack developer.<br>
+I have 6 years of experience and want to be a full stack developer.<br>
 To achieve this, I am gaining various experiences.<br>
 Take a look at my experience!
 
