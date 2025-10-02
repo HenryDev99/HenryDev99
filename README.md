@@ -1,11 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
-### 👨🏻‍💻 Hi there
-I'm Henry, front-end developer<br>
-I have 6 years of experience and want to be a full stack developer.<br>
-To achieve this, I am gaining various experiences.<br>
-Take a look at my experience!
-
 ### ⭐️ Portfolio
 https://www.notion.so/devhenry/c6a1ca21bc9f4f9481ce1a8574403dc9
 
@@ -14,9 +8,6 @@ https://www.notion.so/devhenry/c6a1ca21bc9f4f9481ce1a8574403dc9
 
 ### 🔧 Tools
 <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-F0047F?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-21B573?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
-
-### 🗄️ DB
-<img src ="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
 
 ### 📮 Contact
 Email: devhenryoh99@gmail.com
