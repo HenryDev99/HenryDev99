@@ -10,8 +10,8 @@ https://henrydev99.github.io/portfolio/
 <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-F0047F?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-21B573?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 
 ### 📮 Contact
-Email: devhenryoh99@gmail.com
-linkdin: https://www.linkedin.com/in/%ED%98%84%EB%B9%88-%EC%98%A4-8823383a1/
+Email: devhenryoh99@gmail.com <br/>
+linkdin: https://www.linkedin.com/in/%ED%98%84%EB%B9%88-%EC%98%A4-8823383a1/ <br/>
 velog: https://velog.io/@hb_een/posts
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
